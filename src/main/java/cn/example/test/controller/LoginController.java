@@ -11,6 +11,6 @@ public class LoginController {
 
     @RequestMapping("/*")
     public String hello(){
-        return "hello world ddd";
+        return "hello world d";
     }
 }
